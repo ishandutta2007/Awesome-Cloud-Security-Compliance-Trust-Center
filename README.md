@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Compliance-Trust-Center"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Security-Compliance-Trust-Center?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Compliance-Trust-Center"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Security-Compliance-Trust-Center?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Compliance-Trust-Center/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Security-Compliance-Trust-Center?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Security-Compliance-Trust-Center/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Security-Compliance-Trust-Center?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -68,7 +68,7 @@ Modern cloud security posture management (CSPM) and sales enablement require tra
 
 ## 🔓 Open-Source GitHub Projects 🌾
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Prowler](https://github.com/prowler-cloud/prowler)** [![Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers)  
   **Open-source cloud security assessment, hardening, and incident response tool**, Apache-2.0 licensed. **Supports AWS, Azure, GCP, Kubernetes, and ISO/SOC 2/NIST benchmarks** . **Provides continuous compliance auditing** across CIS benchmarks, PCI-DSS, HIPAA, and GDPR with detailed HTML/JSON reporting . **Tech Stack**: Python 3.10+, AWS SDK, Azure CLI, GCP API . 🛡️
@@ -111,7 +111,7 @@ Contributions are warmly welcomed! Follow these steps to submit new trust center
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` while maintaining table and list formatting rules.
-3. 🔗 Include official product links, exact starting tier prices, free limits, valuation/market cap, and star count badges.
+3. 🔗 Include official product links, exact starting tier prices, free limits, valuation/market cap, and Stars_Count badges.
 4. 🚀 Submit a **Pull Request** with a concise summary of your additions.
 
 ---
